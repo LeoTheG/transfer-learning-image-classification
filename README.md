@@ -28,3 +28,5 @@ A final average pooling and fully connected layer leading to the output.
 The idea behind the residual connections is to address the "vanishing gradient" problem that can occur in deep neural networks. As the network gets deeper, gradients during back-propagation can become extremely small, essentially causing the network to "forget" and not learn effectively. Residual connections allow gradients to bypass layers, making it easier to train deeper networks. This mechanism improves the training process and generalization.
 
 In practice, ResNet architectures, including ResNet-18, have shown state-of-the-art performance on various image classification tasks, especially when pre-trained on large datasets like ImageNet.
+
+![readme1](https://github.com/LeoTheG/transfer-learning-image-classification/assets/6187214/e31a60f2-b09f-4d87-a850-9cafecd5202b)
